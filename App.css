@@ -11,14 +11,14 @@ h1{
 .Calculator{
     width: 200px;
     height: 70px;
-    margin: auto;
+    margin-left: 550px;
     border: 2px solid black;
     padding: 10px;
     border-radius: 10px;
     background-color: rgb(240, 234, 234);
 }
 
-.first_row{
+/* .first_row{
     width: 50px;
 }
 
@@ -36,7 +36,7 @@ h1{
 
 .fifth_row{
     width: 50px;
-}
+} */
 
 
 
